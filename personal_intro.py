@@ -12,4 +12,3 @@ print(f"You are", age, "years old.")
 print(f"It's great to know that you play", hobby,".")
 print("Have a Fantastic Day!")
 
-input("\nPress Enter to exit...")
