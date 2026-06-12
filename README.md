@@ -1,1 +1,2 @@
-# personal-intro
+# Personal Introduction Program
+## Project Overview
